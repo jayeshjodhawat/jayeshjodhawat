@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh Jodhawat</h1>
-<h3 align="center">A passionate IaC and DevOps Engineer from India, currently working in UAE.</h3>
+<h3 align="center">A passionate IaC/SRE/DevOps Engineer from India, currently working in UAE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshjodhawat&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshjodhawat" /> </p>
 
-- 🔭 I’m currently working on **Kubernetes, Ansible, Jenkins, Zabbix and Grafana**
+- 🔭 I’m currently working on **Kubernetes, Ansible, Jenkins, Cloud, Zabbix and Grafana**
 
-- 🌱 I’m currently learning **golang and AWS**
+- 🌱 I’m currently learning **golang**
 
 - 💬 Ask me about **Linux, Ansible**
 
