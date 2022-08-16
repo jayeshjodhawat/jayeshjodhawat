@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshjodhawat&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshjodhawat" /> </p>
 
-- 🔭 I’m currently working on **Kubernetes, Ansible, Jenkins, Cloud, Zabbix and Grafana**
+- 🔭 I’m currently working on **Kubernetes, Service Mesh, Ansible, Terraform, Jenkins, Cloud, Prometheus, Grafana and Zabbix**
 
 - 🌱 I’m currently learning **golang**
 
-- 💬 Ask me about **Linux, Ansible**
+- 💬 Ask me about **Linux, Ansible, Infra Monitoring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
