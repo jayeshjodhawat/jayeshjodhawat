@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayesh Jodhawat</h1>
-<h3 align="center">A passionate IaC/SRE/DevOps Engineer from India, currently working in UAE.</h3>
+<h3 align="center">A passionate IaC/SRE/DevOps Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshjodhawat&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshjodhawat" /> </p>
 
